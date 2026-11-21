@@ -74,3 +74,7 @@ LambdaPEnvCBV/*.lean                                  one file per Isabelle theo
 ## How to cite
 
 Cite the paper quoted at the top of this file.
+
+## License
+
+MIT License (see [LICENSE](LICENSE)).
